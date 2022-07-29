@@ -203,7 +203,7 @@ sacremoses==0.0.38
 scikit-image==0.16.2
 scikit-learn==0.22.1
 scipy==1.4.1
-Scrapy==1.8.0
+Scrapy==2.6.2
 seaborn==0.9.0
 self==2018.11.20
 Send2Trash==1.5.0
