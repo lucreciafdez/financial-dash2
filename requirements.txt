@@ -156,7 +156,7 @@ prometheus-client==0.6.0
 promise==2.3
 prompt-toolkit==2.0.9
 Protego==0.1.16
-protobuf==3.11.2
+protobuf==3.18.3
 ptyprocess==0.6.0
 public==2018.11.20
 py==1.8.1
