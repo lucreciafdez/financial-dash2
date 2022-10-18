@@ -159,7 +159,7 @@ Protego==0.1.16
 protobuf==3.11.2
 ptyprocess==0.6.0
 public==2018.11.20
-py==1.8.1
+py==1.10.0
 py-rouge==1.1
 pyarmor==5.9.0
 pyasn1==0.4.8
